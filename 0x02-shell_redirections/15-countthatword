@@ -1,2 +1,2 @@
-bin /etc/passwd
+#!/bin /etc/passwd
 echo "ALX"
