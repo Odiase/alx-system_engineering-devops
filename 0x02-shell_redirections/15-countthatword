@@ -1,2 +1,2 @@
-#!/bin /etc/passwd
-echo "ALX"
+#!/bin/bash
+#grep -c bin /etc/passwd
